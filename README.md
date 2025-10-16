@@ -2,7 +2,9 @@
 
 Script Python de força-bruta HTTP — **foco total no programa**. Visual, curto e pronto pra colar.
 
-⚠️ **Use apenas em ambiente autorizado / laboratorial.**
+## ⚠️ AVISO IMPORTANTE: Propósito Educacional
+
+**Este software foi desenvolvido exclusivamente para fins de estudo, laboratório (lab) e revisão acadêmica em um ambiente seguro e controlado. O uso desta ferramenta para atividades ilícitas, invasão de sistemas ou qualquer propósito malicioso é estritamente proibido e de total responsabilidade do usuário.**
 
 ---
 
